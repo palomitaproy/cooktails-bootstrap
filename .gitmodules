@@ -1,0 +1,3 @@
+[submodule "cocktails-bootstrap"]
+	path = cocktails-bootstrap
+	url = https://github.com/devugees/cocktails-bootstrap.git
